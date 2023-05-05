@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img width="39px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
-<a href="https://t.me//">
+<a href="https://t.me/arjunraje2003/">
 <img width="39px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="telegram" style="border-radius: 45px;" >
 </a>
 
